@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION":  "Setup OFFlimits bot in your server. This is going to create 2 channals that are needed for the bot to function:    1.operations    2.results-bot",
+    "USAGE": "{{prefix}}setup",
+    "EXAMPLES": "{{prefix}}setup",
+    "Description":"**SETUP GUIDE**",
+    "value1":"To set up scrims system",
+    "value2":"To setup mail system",
+    "value":""
+}

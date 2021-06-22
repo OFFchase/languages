@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Shows the results leaderboard",
+    "USAGE": "{{prefix}}board",
+    "EXAMPLES": "{{prefix}}board"
+  }
+  

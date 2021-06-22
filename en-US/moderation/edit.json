@@ -1,0 +1,5 @@
+{
+    "DESCRIPTION": "Edit an announcment you sent earlier",
+    "USAGE": "{{prefix}}edit [messageID] [New content]",
+    "EXAMPLES": "{{prefix}}edit 422820341791064085 This is a new message"
+}

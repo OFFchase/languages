@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "Shows OFFlimits links!",
+    "USAGE": "{{prefix}}invite (copy)",
+    "EXAMPLES": "{{prefix}}invite\n{{prefix}}invite copy",
+    "LINKS": "OFFlimits links",
+    "TIP": "Send `{{prefix}}invite copy` to be able to copy the invite link!",
+    "DES": "By using this bot in your server, you agree to our ToS stated below.\n:warning: **If you do not agree to this, your server and user will be blacklisted from this bot.**",
+    "VOTE": "Vote for OFFlimits",
+    "SUPPORT": "\n \nGet [Support](https://discord.gg/QcbuxZacdu)",
+    "TOS":"You must not be abusing any rules of the [Discord ToS.](https://discord.com/terms)",
+    "contact": "[Invite link](https://discord.com/api/oauth2/authorize?client_id=728136718531952700&permissions=8&scope=bot)",
+    "RAID":"This bot will not be part of any raiding or nuking in any server.",
+    "ONE":"**1.** Raiding",
+    "TWO":"**2.** Discord ToS",
+    "THREE":"**3.** Custom Commands",
+    "CUSCOM":"Some commands that you may see on our [support server](https://discord.gg/QcbuxZacdu)",
+    "MARK1":"Confirming Your Entry:",
+    "MARK2":"```\nTo confirm that you agree to our ToS, please react with ✅\nIf you do not see the reaction, please wait 10 seconds\n```",
+    "NOTE":"🗒️**Note:**\nThis bot requires `2,146,958,847` permissions. Adding this bot will give the bot all permissions on your server!\n\n"
+}

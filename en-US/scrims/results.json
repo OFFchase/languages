@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION":  "**⛔VERY IMPORTANT:**\n1.Results channel has to be empty form side messages\n2.Only keep the points in the following order:\nTeamName place kills place kills place kills\n3.TeamName has to be 1 word otherwise use (-) between\n4.Preferred to send each team and it's points in separate message\n5.For more help watch [YouTube tutorial](https://youtu.be/Q9OaiVxUEqw) on how to use.",
+    "USAGE": "{{prefix}}results",
+    "EXAMPLES": "{{prefix}}results",
+    "recheckTeam":"Please make sure ** {{Name}} ** is one word!!",
+    "recheck1Space":"Extra spaces after ** {{Name}} **!!!",
+    "recheck2Space":"Extra spaces in ** {{Name}} ** after {{wt}} = ** {{Points}} **!!!",
+    "ChannelsError":"Missing requierd channels!!! use",
+    "ChannelError":"This command can only be used in `results-bot` channel!!!",
+    "will": "Results will be sent to ",
+    "footer": "For other desgins use board\nIf there are missing teams - Please check Team-Names and spaces between variables"
+}

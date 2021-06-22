@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Delete the results cache without deleting results channel content",
+    "USAGE": "{{prefix}}delete-results",
+    "EXAMPLES": "{{prefix}}delete-results",
+    "msg1": "<:weirdbro:783803533190365235> | How many times you want to delete your results!!! They are already deleted",
+    "msg2": "<:weirdbro:783803533190365235> | Already deleted!!!",
+    "msg3": "<:weirdbro:783803533190365235> | Deleted whats already been deleted!!!",
+    "msg4": "<:weirdbro:783803533190365235> | Nothing to delete!!",
+    "msg5": "<:weirdbro:783803533190365235> | You already deleted your results!!!",
+    "msg6": "<:weirdbro:783803533190365235> | This command is no longer needed..."
+  }
+  

@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION":  "Save team logos into OFFlimits system so that they appear in the results leaderboard\nUse \nlogo add - to add new logos\nlogo preview - to preview\nlogo remove - to delete a logo\nThe name you provide the logo use it to calculate results, otherwise logo will not be found.",
+    "USAGE": "{{prefix}}logo",
+    "EXAMPLES": "{{prefix}}logo",
+    "recheck":"You might want to recheck",
+    "ChannelsError":"Missing requierd channels!!! use",
+    "ChannelError":"This command can only be used in `results-bot` channel!!!",
+    "will": "Results will be sent to "
+}

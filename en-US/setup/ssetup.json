@@ -1,0 +1,15 @@
+{
+    "DESCRIPTION": "Setup scrims system in your server",
+    "USAGE": "{{prefix}}set",
+    "EXAMPLES": "{{prefix}}set",
+    "collector1":"🔂Reply with the mention of the channel you use for sign-in (booking):\n`Reply skip to skip`",
+    "collector2":" has been set as sign-in channel.\n\n🔂Reply with the mention of the channel you use for room id & pass (codes):\n`Reply skip to skip`",
+    "collector3":"🔂Mention the Scrims role: `Reply skip to skip`",
+    "sat1":"has been set as sign-in channel.\n",
+    "sat2":"has been set as id-pass channel.\n\n",
+    "save":"🔽Save these changes?",
+    "save1":"Reply with: Yes/No",
+    "mentionError":"Not a vaild mention.\n🔂 | Please mention the role you use for Scrims",
+    "mention2Error":"Not a vaild mention.\n🔂 | Please mention the channel you use for id-pass (codes).",
+    "mention3Error":"Not a vaild mention.\n🔂 | Please mention the channel you use for sign-in (booking)."
+}

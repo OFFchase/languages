@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Reset scrims channels (delete channel messages)\nAlso delete results cache and results channel content",
+    "USAGE": "{{prefix}}reset",
+    "EXAMPLES": "{{prefix}}reset",
+    "RESULTS_BACKUP":"RESULTS BACKUP",
+    "sign_ups":"The bot will reset sign ups.\nConfirm with a ✅ or cancel with a ❎.",
+    "No_reaction":"No reaction after 30 seconds, operation canceled",
+    "NO_LOGS":"Logs channel not found: use {{prefix}}setup , and try again.",
+    "OPERATIONS":"```\nThis is OFFlimits operations channel\nPlease do no send anything in this channel\n```",
+    "EMBEDDESCRIPTION": "Send points in the following order:\n```Team p1 k1 p2 k2 p3 k3```\n\nWhen:\np1 = rank in 1st game\nk1 = total kills in 1st game\nExample:\n```OFF 1 10 2 9 3 8```\n\nFor more help:\nVisit: https://offlimits.ru.com/cloud/scrims.html\nWatch: https://youtu.be/Q9OaiVxUEqw\nJoin [OFFlimits Gaming](https://discord.gg/gQn54bQhuH)"
+}

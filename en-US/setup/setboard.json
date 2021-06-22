@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION":  "Set a custom png leaderboard design for your server. All you have to do is go through the process.",
+    "USAGE": "{{prefix}}setboard",
+    "EXAMPLES": "{{prefix}}setboard",
+    "reply": "Reply with the image you want to set as background",
+    "text": "__Use the following emojis:__\n▶️` To view the next design`\n◀️` To view the previous design`\n✅` Save and move to the next step`\n🔄` To restart changes to default`\n❌` To cancel board setup`"
+    
+}
