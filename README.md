@@ -2,8 +2,7 @@
 
 # OFFlimits
 
-[![](https://img.shields.io/discord/565048515357835264.svg?logo=discord&colorB=7289DA&label=Atlanta%20Support)](https://discord.gg/QcbuxZacdu)
-[![](https://img.shields.io/discord/568120814776614924.svg?logo=discord&colorB=00BFFF&label=Atlanta%20Emojis)](https://offlimits.ru.com/)
+[![](https://img.shields.io/discord/565048515357835264.svg?logo=discord&colorB=7289DA)](https://discord.gg/vhhS5jQVdg)
 [![](https://img.shields.io/badge/discord.js-v13.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
 
 > This bot is used by more than 130,000 Discord users and more than 150 servers.
@@ -13,11 +12,11 @@ Feel free to add a star ⭐ to the repository to promote the project!
 ### languages
  
  Available languages so far:
- * Arabic (`Niklaus#8030`, `offbest#0302`)
- * English (`Niklaus#8030`)
- * Russian (`Princess#6599`)
+ * 🇸🇩 Arabic (`Niklaus#8030`, `offbest#0302`)
+ * 🇬🇧 English (`Niklaus#8030`)
+ * 🇷🇺 Russian (`Princess#6599`)
 
- Feel free to translate to any language 
+ Feel free to translate to any language .
 
 ### requierments:
 
