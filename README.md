@@ -9,7 +9,7 @@
 
 OFFlimits is a free Discord bot coded in JavaScript with [Discord.js](https://discord.js.org) and [Mongoose](https://mongoosejs.com/docs/api.html) by [Niklaus#8030](https://github.com/OFFchase).  
 Feel free to add a star ⭐ to the repository to promote the project!
-### languages
+## languages
  
  Available languages so far:
  * 🇸🇩 Arabic (`Niklaus#8030`, `offbest#0302`)
@@ -18,11 +18,12 @@ Feel free to add a star ⭐ to the repository to promote the project!
 
  Feel free to translate to any language .
 
-### requierments:
+## requierments:
 
 Once `common`, `dashboard`, `misc`, `time`, `scrims` and `setup` are translated the language can be added to the bot.
 
-### Examples:
+## Examples:
+
 * From English to Russian:
 ```
 {
