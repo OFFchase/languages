@@ -22,6 +22,24 @@ Feel free to add a star ⭐ to the repository to promote the project!
 
 Once `common`, `dashboard`, `misc`, `time`, `scrims` and `setup` are translated the language can be added to the bot.
 
+### Examples:
+* From English to Russian:
+```
+{
+    "DESCRIPTION": "Shows the results leaderboard",
+    "USAGE": "{{prefix}}board",
+    "EXAMPLES": "{{prefix}}board"
+  }
+```
+* Translation:
+```
+{
+    "DESCRIPTION": "Показывает таблицу лидеров результатов",
+    "USAGE": "{{prefix}}board",
+    "EXAMPLES": "{{prefix}}board"
+  }
+```
+
 ## Contributing
 
 Before **creating an issue**, please ensure that it hasn't already been reported/suggested.
