@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Отображает права участника на канале",
+    "USAGE": "{{prefix}}permissions (@участник)",
+    "EXAMPLES": "{{prefix}}permissions\n{{prefix}}permissions @Androz#2091",
+    "TITLE": "Права {{user}} в {{channel}}"
+}

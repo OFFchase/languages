@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Установите канал журналов модерации!",
+    "USAGE": "{{prefix}}setmodlogs (#канал)",
+    "EXAMPLES": "{{prefix}}setmodlogs #modlogs\n{{prefix}}setmodlogs",
+    "SUCCESS_ENABLED": "Журналы модерации будут отправлены в **{{channel}}**!",
+    "SUCCESS_DISABLED": "Канал с журналами модерации удален!"
+}

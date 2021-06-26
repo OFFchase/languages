@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Приостановить текущую песню!",
+    "USAGE": "{{prefix}}pause",
+    "EXAMPLES": "{{prefix}}pause",
+    "SUCCESS": "⏸️ Музыка приостановлена."
+}

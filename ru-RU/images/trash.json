@@ -1,0 +1,5 @@
+{
+    "DESCRIPTION": "Создает \"мусор\" изображение",
+    "USAGE": "{{prefix}}trash (@member)",
+    "EXAMPLES": "{{prefix}}trash\n{{prefix}}trash @Androz#2091"
+}

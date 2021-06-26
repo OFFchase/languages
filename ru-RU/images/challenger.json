@@ -1,0 +1,5 @@
+{
+    "DESCRIPTION": "Создает изображение \"претендента\"",
+    "USAGE": "{{prefix}}challenger (@member)",
+    "EXAMPLES": "{{prefix}}challenger\n{{prefix}}challenger @Androz#2091"
+}

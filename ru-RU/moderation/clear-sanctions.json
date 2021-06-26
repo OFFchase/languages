@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Снимите санкции с участника!",
+    "USAGE": "{{prefix}}clear-sanctions [@member]",
+    "EXAMPLES": "{{prefix}}clear-sanctions @Androz#2091",
+    "MISSING_MEMBER": "Пожалуйста, укажите участника, с которого вы хотите снять санкции.!",
+    "SUCCESS": "Санкции **{{username}}** были удалены!"
+}

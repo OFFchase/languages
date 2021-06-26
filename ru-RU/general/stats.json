@@ -1,0 +1,17 @@
+{
+    "DESCRIPTION": "Показывает статистику бота!",
+    "USAGE": "{{prefix}}stats",
+    "EXAMPLES": "{{prefix}}stats",
+    "COUNTS_TITLE": "• __Статистика__",
+    "COUNTS_CONTENT": "`Серверы: {{servers}}`\n`Пользователи: {{users}}`",
+    "VERSIONS_TITLE": "• __С использованием__",
+    "RAM_TITLE": "• __ОП__",
+    "ONLINE_TITLE": "• __В сети__",
+    "ONLINE_CONTENT": "В сети уже {{time}}",
+    "MUSIC_TITLE": "• __Музыка__",
+    "MUSIC_CONTENT": "Играет музыку в `{{count}}` Серверов",
+    "CREDITS_TITLE": ":heart: • __Благодарности и распознавания__",
+    "CREDITS_CONTENT": "Спасибо [Icons8](https://icons8.com/) почти для всех эмодзи!\n__**Доноры**__:\n{{donators}}\n__**Переводчики**__:\n{{translators}}",
+    "LINKS_TITLE": "• __Ссылки__",
+    "MADE": "Atlanta - бот с открытым исходным кодом, разработал Androz# 2091.!"
+}

@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Установите канал отчетов!",
+    "USAGE": "{{prefix}}setreports (#канал)",
+    "EXAMPLES": "{{prefix}}setreports #reports\n{{prefix}}setreports",
+    "SUCCESS_ENABLED": "Отчеты будут отправлены в **{{channel}}**!",
+    "SUCCESS_DISABLED": "Канал отчетов удален!"
+}

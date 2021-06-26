@@ -1,0 +1,5 @@
+{
+    "DESCRIPTION": "Создает изображение \"миссии\" с помощью Amethyste API.",
+    "USAGE": "{{prefix}}mission (@member)",
+    "EXAMPLES": "{{prefix}}mission\n{{prefix}}mission @Androz#2091"
+}

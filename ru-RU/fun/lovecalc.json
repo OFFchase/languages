@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Сколько любви между двумя людьми?\n*Это забавная команда, которую не стоит воспринимать всерьез*",
+    "USAGE": "{{prefix}}lovecalc [@участник1] (@участник2)",
+    "EXAMPLES": "{{prefix}}lovecalc @Androz#2091\n{{prefix}}lovecalc @Androz#2091 @Atlanta#6770",
+    "MISSING": "Вы должны упомянуть двух участников!",
+    "CONTENT": "Имеется **{{percent}}%** любви между **{{firstUsername}}** и **{{secondUsername}}**!\n**Поздравляю!**"
+}

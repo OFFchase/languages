@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Включение или отключение функции автовоспроизведения",
+    "USAGE": "{{prefix}}autoplay",
+    "EXAMPLES": "{{prefix}}autoplay",
+    "SUCCESS_ENABLED": "{{success}} Автовоспроизведение теперь включено!",
+    "SUCCESS_DISABLED": "{{success}} Автовоспроизведение отключено!"
+}

@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Показывает список сотрудников сервера!",
+    "USAGE": "{{prefix}}staff",
+    "EXAMPLES": "{{prefix}}staff",
+    "TITLE": "{{guild}} staff",
+    "ADMINS": "Администраторы",
+    "NO_ADMINS": "Нет Администраторов",
+    "MODS": "Модераторы",
+    "NO_MODS": "Нет Модераторов"
+}

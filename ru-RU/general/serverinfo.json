@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Показывает информацию о сервере!",
+    "USAGE": "{{prefix}}serverinfo [ID/название]",
+    "EXAMPLES": "{{prefix}}serverinfo Atlanta\n{{prefix}}serverinfo",
+    "AFK_CHANNEL": "Канал для бездействия",
+    "NO_AFK_CHANNEL": "нет канал бездействия",
+    "MEMBERS": "{{count}} участников",
+    "BOTS": "{{count}} боты",
+    "BOOSTS": "Количество бустов",
+    "TEXT_CHANNELS": "{{count}} текстовых",
+    "VOICE_CHANNELS": "{{count}} голосовых",
+    "CAT_CHANNELS": "{{count}} категорий"
+}

@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Загрузите свой текст на hastebin!",
+    "USAGE": "{{prefix}}hastebin [текст]",
+    "EXAMPLES": "{{prefix}}hastebin Привет мир!",
+    "MISSING_TEXT": "Пожалуйста, введите правильный текст!",
+    "SUCCESS": "Загрузка завершена!"
+}

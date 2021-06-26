@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Быстро удалить несколько сообщений!",
+    "USAGE": "{{prefix}}clear [количество-сообщений] (@member)",
+    "EXAMPLES": "{{prefix}}clear 10\n{{prefix}}clear 10 @Androz#2091",
+    "MISSING_AMOUNT": "Вы должны указать количество сообщений для удаления!",
+    "ALL_CONFIRM": "Все сообщения канала будут удалены! Подтвердить папишите `-confirm`",
+    "CHANNEL_CLEARED": "Канал очищен!",
+    "CLEARED": "**{{amount}}** сообщения были удалены!",
+    "CLEARED_MEMBER": "**{{amount}}** сообщения **{{username}}** были удалены!"
+}

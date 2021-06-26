@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Переключения команды  в канале",
+    "USAGE": "{{prefix}}ignore [канал]",
+    "EXAMPLES": "{{prefix}}ignore #канал",
+    "ALLOWED": "Команды теперь разрешены в {{channel}}!",
+    "IGNORED": "Команды теперь запрещены в {{channel}}!"
+}

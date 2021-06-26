@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Добавить собственную команду!",
+    "USAGE": "{{prefix}}addcommand [название] [ответ]",
+    "EXAMPLES": "{{prefix}}addcommand Привет Привет {user}! как вы?",
+    "MISSING_NAME": "Пожалуйста укажите название команды!",
+    "MISSING_ANSWER": "Пожалуйста укажите ответ для команды!",
+    "SUCCESS": "Command **{{prefix}}{{commandName}}** добавлена!"
+}

@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Снять деньги!",
+    "USAGE": "{{prefix}}withdraw [сумма]",
+    "EXAMPLES": "{{prefix}}withdraw 400",
+    "MISSING_AMOUNT": "Укажите сумму вывода!",
+    "NO_CREDIT": "У вас нет кредит(ов) в вашем банке!",
+    "NOT_ENOUGH": "Вам нужно как минимум `{{money}}` кредит(ов)!",
+    "SUCCESS": "**{{money}}** кредит(ов) сняты!"
+}

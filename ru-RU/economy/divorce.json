@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Развестись с человеком, с которым в настоящее время состоишь в браке!",
+    "USAGE": "{{prefix}}divorce",
+    "EXAMPLES": "{{prefix}}divorce",
+    "NOT_MARRIED": "В настоящее время вы не женаты!",
+    "DIVORCED": "Вы только что развелись с **{{username}}**!"
+}

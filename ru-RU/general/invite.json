@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Показывает ссылки Атланты!",
+    "USAGE": "{{prefix}}invite (copy)",
+    "EXAMPLES": "{{prefix}}invite\n{{prefix}}invite copy",
+    "LINKS": "Атланта ссылки",
+    "TIP": "Send `{{prefix}}invite copy` чтобы иметь возможность скопировать ссылку приглашения!",
+    "ADD": "Пригласить Атланту",
+    "VOTE": "Голосуйте за Атланту",
+    "SUPPORT": "Получать поддержку"
+}

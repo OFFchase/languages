@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Вкл. звук упомянутого участника!",
+    "USAGE": "{{prefix}}unmute [@member]",
+    "EXAMPLES": "{{prefix}}unmute @Androz#2091",
+    "MISSING_MEMBER": "Пожалуйста, укажите участника, которому хотите вкл. звук!",
+    "NOT_MUTED": "**{{username}}** is not muted on this server!",
+    "SUCCESS": "**{{username}}** has just been unmuted!",
+    "SUCCESS_CASE": "{{user}} (`{{usertag}}`) has just been unmuted! (mute case: #{{count}})"
+}

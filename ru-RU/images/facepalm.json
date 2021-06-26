@@ -1,0 +1,5 @@
+{
+    "DESCRIPTION": "Создает изображение \"facepalm\" с использованием канваса",
+    "USAGE": "{{prefix}}facepalm (@member)",
+    "EXAMPLES": "{{prefix}}facepalm\n{{prefix}}facepalm Androz#2091"
+}

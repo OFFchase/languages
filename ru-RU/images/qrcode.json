@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Создает изображение QR-кода из заданного текста",
+    "USAGE": "{{prefix}}qrcode [текст]",
+    "EXAMPLES": "{{prefix}}qrcode Привет",
+    "MISSING_TEXT": "Укажите исходный текст QR-кода!",
+    "SUCCESS": "Вот ваш QR-код!"
+}

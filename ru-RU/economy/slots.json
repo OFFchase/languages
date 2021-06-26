@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Казино Атланты",
+    "USAGE": "{{prefix}}slots [сумма]",
+    "EXAMPLES": "{{prefix}}slots\n{{prefix}}slots 10",
+    "DEFEAT": "**{{username}} ** использовал кредит(ов) на {{money}} и все потерял.",
+    "VICTORY": "**{{username}} ** израсходовал {{money}} кредита(ов) и получил {{won}} кредита(ов)!",
+    "NOT_ENOUGH": "Вам нужно как минимум **{{money}}** кредита(ов)."
+}

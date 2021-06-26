@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "Показывает информацию о сервере Minecraft!",
+    "USAGE": "{{prefix}}minecraft [ip]",
+    "EXAMPLES": "{{prefix}}minecraft mc.hypixel.net",
+    "MISSING_IP": "Пожалуйста, введите действующий IP-адрес!",
+    "FAILED": "Этот сервер отключен или блокирует доступ!",
+    "ONLINE": "В сети",
+    "OFFLINE": "Не в сети",
+    "PLAYERS": "{{count}} игрок(и)",
+    "FIELD_NAME": "Информация о {{ip}}",
+    "FIELD_VERSION": "Версия",
+    "FIELD_CONNECTED": "В настоящее время подключено",
+    "FIELD_MAX": "Максимум",
+    "FIELD_STATUS": "Статус",
+    "FIELD_IP": "Полный IP"
+}

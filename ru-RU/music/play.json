@@ -1,0 +1,21 @@
+{
+    "DESCRIPTION": "Играет музыку для вас!",
+    "USAGE": "{{prefix}}play [песня]",
+    "EXAMPLES": "{{prefix}}play Bye Bye",
+    "NO_VOICE_CHANNEL": "Вы должны быть подключены к голосовому каналу!",
+    "VOICE_CHANNEL_CONNECT": "Я не могу подключиться к твоему голосовому каналу!",
+    "MISSING_SONG_NAME": "Укажите название песни или ссылку!",
+    "RESULTS_FOOTER": "Пожалуйста, выберите песню, отправив число от 1 до 10.",
+    "NO_RESULT": "Не найдано на Youtube!",
+    "NOW_PLAYING": "Сейчас играет**{{songName}}** :musical_note:",
+    "PLAYING_PLAYLIST": "Начинается плейлист**{{playlistTitle}}**. {{playlistEmoji}}\nИграется первая песня, **{{songName}}**! :musical_note:",
+    "CANCELLED": "Выбор отменен",
+    "NOT_PLAYING": "На этом сервере в настоящее время не играются песни.",
+    "QUEUE_ENDED": "Очередь закончилась. Больше нет музыки для воспроизведения...",
+    "ADDED_QUEUE": "{{songName}} добавлен в очередь!",
+    "ADDED_QUEUE_COUNT": "{{songCount}} песни добавлены в очередь!",
+    "STOP_DISCONNECTED": "Я только что выключил музыку, так как меня отключили от канала.",
+    "RESULTS_CANCEL": "Поиск отменен!",
+    "LIVE_VIDEO": "Прямыой эфир пока не поддерживается!",
+    "ERR_OCCURRED": "Произошла ошибка ... Код: `{{error}}`"
+}

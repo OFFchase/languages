@@ -1,0 +1,21 @@
+{
+    "DESCRIPTION": "Показывает статистику Fortnite игрока!",
+    "USAGE": "{{prefix}}fortnite [psn/xbl/pc] [pseudo]",
+    "EXAMPLES": "{{prefix}}fortnite pc Ninja",
+    "MISSING_PLATFORM": "Укажите платформу между `psn`, `pc` or `xbl`!",
+    "MISSING_USERNAME": "Пожалуйста, введите действительное имя пользователя epic games!",
+    "NOT_FOUND": "`{{search}}` не был найден в `{{platform}}`!",
+    "TITLE": "{{username}} Fortnite Статистика ",
+    "AVERAGE_KILLS": "УБИЙСТВ/МАТЧ",
+    "AVERAGE_KILL": "УБИЙСТВ/МАТЧ",
+    "W_PERCENT": "W%",
+    "WIN_PERCENT": "WIN%",
+    "KD": "KD",
+    "WINS": "Wins",
+    "WIN": "Win",
+    "MATCHES": "Matches",
+    "MATCH": "Match",
+    "KILLS": "Kills",
+    "KILL": "Kill",
+    "FOOTER": "Из Атланты с помощью fortnitetracker.com"
+}

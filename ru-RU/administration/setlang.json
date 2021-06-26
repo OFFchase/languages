@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Изменить язык сервера!",
+    "USAGE": "{{prefix}}setlang [язык]",
+    "EXAMPLES": "{{prefix}}setlang Русский\n{{prefix}}setlang english",
+    "MISSING_LANG": "Пожалуйста, введите допустимый язык между следуюшими тезисами: {{list}}",
+    "SUCCESS": ":flag_gb: Язык этого сервера теперь русский!"
+}

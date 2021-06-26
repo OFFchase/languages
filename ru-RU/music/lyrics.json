@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Показывает текст песни",
+    "USAGE": "{{prefix}}lyrics [название-песни]",
+    "EXAMPLES": "{{prefix}}lyrics Skyfall",
+    "LYRICS_OF": "🎤 {{songName}} lyrics",
+    "AND_MORE": "\n**И больше...**",
+    "REST": "Расширять",
+    "MISSING_SONG_NAME": "Укажите название песни!",
+    "NO_LYRICS_FOUND": "Тексты для `{{songName}}` не найдены!"
+}

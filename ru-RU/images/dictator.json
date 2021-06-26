@@ -1,0 +1,5 @@
+{
+    "DESCRIPTION": "Создает \"прожигающее\" изображение",
+    "USAGE": "{{prefix}}burn (@member)",
+    "EXAMPLES": "{{prefix}}burn\n{{prefix}}burn @Androz#2091"
+}

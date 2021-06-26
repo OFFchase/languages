@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Проверьте, есть ли в статусе участников ссылка на сервер Дискорд!",
+    "USAGE": "{{prefix}}checkinvites",
+    "EXAMPLES": "{{prefix}}checkinvites",
+    "NOBODY": "Ни один участник не рекламирует свой статус!"
+}

@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Показывает информацию о пользователе!",
+    "USAGE": "{{prefix}}userinfo (@пользователь/ID-пользователя)",
+    "EXAMPLES": "{{prefix}}userinfo\n{{prefix}}userinfo @Androz#2091\n{{prefix}}userinfo 422820341791064085",
+    "INVALID_USER": "Ни у одного пользователя Дискорда нет `{{search}}` ID!",
+    "NO_GAME": "Не играет",
+    "NO_ROLE": "Без роли",
+    "NO_NICKNAME": "Нет никнейма",
+    "MORE_ROLES": "и {{count}} други роли",
+    "BOT_STATS": "**{{votes}}** голосов ([top.gg](https://top.gg))\n**{{servers}}** серверы\n**{{shards}}** Шарды\nС использованием **{{lib}}**"
+}

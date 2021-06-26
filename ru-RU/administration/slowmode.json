@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Установите медленный режим для канала",
+    "USAGE": "{{prefix}}slowmode [#канал] (время)",
+    "EXAMPLES": "{{prefix}}slowmode #general 10м\n{{prefix}}slowmode #general",
+    "DISABLED": "**Медленный режим только что был отключен в {{channel}}!**\n\n:arrow_right_hook: *Отправьте `{{prefix}}slowmode [#канал] (время)` чтобы включить его снова!*",
+    "ENABLED": "**Медленный режим `{{time}}` только что был включен в `{{channel}}`!**\n\n:arrow_right_hook: *Отправьте `{{prefix}}slowmode {{channel}}` чтобы отключить его!*",
+    "PLEASE_WAIT": "Канал {{channel}} в замедленном режиме! Пожалуйста, подождите {{time}} между каждым сообщением!"
+}

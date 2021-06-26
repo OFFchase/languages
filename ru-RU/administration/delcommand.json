@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Удалить пользовательскую команду!",
+    "USAGE": "{{prefix}}delcommand [название команды]",
+    "EXAMPLES": "{{prefix}}delcommand hey",
+    "MISSING_NAME": "Пожалуйста, введите правильное имя настраиваемой команды!",
+    "UNKNOWN_COMMAND": "Команда {{commandName}} не существует!",
+    "SUCCESS": "Команда {{commandName}} удалена с сервера!"
+}

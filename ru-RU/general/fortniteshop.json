@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Показывает ежедневный магазин предметов Fortnite!",
+    "USAGE": "{{prefix}}fortniteshop",
+    "EXAMPLES": "{{prefix}}fortniteshop",
+    "HEADER": "МАГАЗИН ИЗДЕЛИЙ FORTNITE",
+    "DAILY": "ЕЖЕДНЕВНО",
+    "FEATURED": "ПРЕДЛАГАЕМЫЕ",
+    "DATE": "{{date}} Магазин Fortnite",
+    "FOOTER": "Магазин Fortnite от Атланты"
+}

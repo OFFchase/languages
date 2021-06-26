@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Возобновить текущую песню!",
+    "USAGE": "{{prefix}}resume",
+    "EXAMPLES": "{{prefix}}resume",
+    "SUCCESS": "▶️ Музыка возобновлена!"
+}

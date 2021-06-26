@@ -1,0 +1,12 @@
+{
+    "DESCRIPTION": "Определите санкции, которые получат участники после определенного количества предупреждений.!",
+    "USAGE": "{{prefix}}setwarns [kick/ban] [number/reset]",
+    "EXAMPLES": "{{prefix}}setwarns kick 10\n{{prefix}}setwarns ban 10\n{{prefix}}setwarns ban reset",
+    "MISSING_TYPE": "Укажите санкцию между `kick` and `ban`",
+    "SUCCESS_KICK": "** `{{count}}` предупреждения приведут к исключению!**\n\n:arrow_right_hook: *отправьте `{{prefix}}configuration` чтобы увидеть обновленную конфигурацию!*",
+    "SUCCESS_BAN": "** `{{count}}` warnings will result in a ban!**\n\n:arrow_right_hook: *отправьте `{{prefix}}configuration` чтобы увидеть обновленную конфигурацию!*",
+    "SUCCESS_KICK_RESET": "**Члены больше не могут быть исключены автоматически!**\n\n:arrow_right_hook: *отправьте `{{prefix}}configuration` чтобы увидеть обновленную конфигурацию!*",
+    "SUCCESS_BAN_RESET": "**Члены больше не могут быть автоматически заблокированы!**\n\n:arrow_right_hook: *отправьте `{{prefix}}configuration` чтобы увидеть обновленную конфигурацию!*",
+    "AUTO_BAN": "**{{username}}** был автоматически заблокирован, потому что они достигли более чем **{{count}}** предупреждений!",
+    "AUTO_KICK": "**{{username}}** был автоматически исключен, потому что они достигли более чем **{{count}}** предупреждений!"
+}

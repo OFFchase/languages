@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Запрещает участнику отправлять сообщения и подключаться к голосовому чату в течение определенного периода времени!",
+    "USAGE": "{{prefix}}mute [@участник] [время]",
+    "EXAMPLES": "{{prefix}}mute @Androz#2091 Спам",
+    "MISSING_MEMBER": "Укажите действительного участника, чтобы отключить звук!",
+    "MUTED_DM": "Привет {{username}},\nYou've just been muted on **{{server}}** by **{{moderator}}** for **{{time}}** because of **{{reason}}**!",
+    "MUTED": "**{{username}}** is now muted for **{{time}}** because of **{{reason}}**!",
+    "CASE": "Mute | Case #{{count}}"
+}

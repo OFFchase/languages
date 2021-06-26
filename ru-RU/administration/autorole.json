@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Включить автороль на сервере!",
+    "USAGE": "{{prefix}}autorole [on/off] (роль)",
+    "EXAMPLES": "{{prefix}}autorole on @Роль\n{{prefix}}autorole off",
+    "MISSING_STATUS": " Укажите допустимое значение между `on` и `off`",
+    "MISSING_ROLE": "Укажите допустимую роль!",
+    "SUCCESS_ENABLED": "Автороль включен! Новые участники автоматически получат роль {{roleName}}.",
+    "ALREADY_DISABLED": "**Автороль уже отключен.**\n\n:arrow_right_hook: *Отправьте `{{prefix}}autorole on @ВашуРоль` чтобы включить его снова!*",
+    "SUCCESS_DISABLED": "**Автороль отключен!**\n\n:arrow_right_hook: *Отправьте `{{prefix}}configuration` чтобы увидеть обновленную конфигурацию!*"
+}
